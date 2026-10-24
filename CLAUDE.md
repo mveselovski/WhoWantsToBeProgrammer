@@ -5,7 +5,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 ## What this is
 
 An HTML slide deck: `presentation.html`. It's a talk titled
-*"Who Wants to Be a Programmer — No Bullshit Edition"* by Andriy Kvasnytsya, about AI's
+*"Who Wants to Be a Programmer — No Bullshit Edition"* by Mykhailo Veselovskyi, about AI's
 impact on the programming profession and on jobs in general. **All slide content is in
 Ukrainian.** There is no build system, no package manager, and no tests. External resources:
 Google Fonts (loaded via CDN at runtime) and one local image asset, `meme-it-guy-3am.png`,
